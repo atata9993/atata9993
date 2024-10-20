@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atata9993
-- 👀 I’m interested in creating a documentation on my CyberSecurity journey!
+- 👀 I'm interested in documenting my journey to break into the tech industry and eventually transition into cybersecurity.
 - 🌱 I’m currently learning penetration testing
 - 💞️ I’m looking to collaborate on security tasks
 - 📫 How to reach me afsana.inabyah@gmail.com
